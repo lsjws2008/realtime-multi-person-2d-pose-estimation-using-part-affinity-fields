@@ -4,5 +4,4 @@
 ### [paper address](https://arxiv.org/abs/1611.08050)   
   
   
-##### 
-1. 
+##### 1. 
